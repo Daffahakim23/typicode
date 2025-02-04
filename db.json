@@ -1,23 +1,21 @@
-{
-  "users": [
-    {
-      "nik": "3171234567890123",
-      "namaLengkap": "Mira Setiawan",
-      "tanggalLahir": "1986-02-18",
-      "tempatLahir": "Jakarta",
-      "jenisKelamin": "Perempuan",
-      "agama": "Islam",
-      "alamat": "JL. Pasti Cepat A7/66",
-      "rt": "007",
-      "rw": "008",
-      "provinsi": "DKI Jakarta",
-      "kota": "Jakarta Barat",
-      "kecamatan": "Kalideres",
-      "kelurahan": "Pegadungan",
-      "kodePos": "16438",
-      "statusPerkawinan": "Menikah",
-      "masaAktifKtp": "2017-02-22",
-      "namaIbuKandung": "Indah"
-    }
-  ]
-}
+[
+  {
+    "nik": "3171234567890123",
+    "namaLengkap": "Mira Setiawan",
+    "tanggalLahir": "1986-02-18",
+    "tempatLahir": "Jakarta",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "alamat": "JL. Pasti Cepat A7/66",
+    "rt": "007",
+    "rw": "008",
+    "provinsi": "DKI Jakarta",
+    "kota": "Jakarta Barat",
+    "kecamatan": "Kalideres",
+    "kelurahan": "Pegadungan",
+    "kodePos": "16438",
+    "statusPerkawinan": "Menikah",
+    "masaAktifKtp": "2017-02-22",
+    "namaIbuKandung": "Indah"
+  }
+]
