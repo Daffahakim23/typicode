@@ -1,43 +1,21 @@
-export class FormModelDataKTP {
-  constructor() {
-    this.nik = "";
-    this.namaLengkap = "";
-    this.tanggalLahir = "";
-    this.tempatLahir = "";
-    this.jenisKelamin = "";
-    this.agama = "";
-    this.alamat = "";
-    this.rt = "";
-    this.rw = "";
-    this.provinsi = "";
-    this.kota = "";
-    this.kecamatan = "";
-    this.kelurahan = "";
-    this.kodePos = "";
-    this.statusPerkawinan = "";
-    this.masaAktifKtp = "";
-    this.namaIbuKandung = "";
+[
+  {
+    "nik": "3171234567890123",
+    "namaLengkap": "Mira Setiawan",
+    "tanggalLahir": "18 Februari 1986",
+    "tempatLahir": "Jakarta",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "alamat": "JL. Pasti Cepat A7/66",
+    "rt": "007",
+    "rw": "008",
+    "provinsi": "DKI Jakarta",
+    "kota": "Jakarta Barat",
+    "kecamatan": "Kalideres",
+    "kelurahan": "Pegadungan",
+    "kodePos": "16438",
+    "statusPerkawinan": "Menikah",
+    "masaAktifKtp": "22/02/2017",
+    "namaIbuKandung": "Indah"
   }
-}
-
-export class FormModelDataPribadi {
-  constructor() {
-    this.namaPanggilan = "";
-    this.tujuan = "";
-    this.kantorCabang = "";
-    this.alamatKantorCabang = "";
-    this.pendidikanTerakhir = "";
-    this.hobi = "";
-    this.nomorTelepon = "";
-    this.nomorFax = "";
-    this.alamatSesuaiEktp = "";
-    this.alamat = "";
-    this.rt = "";
-    this.rw = "";
-    this.provinsi = "";
-    this.kota = "";
-    this.kecamatan = "";
-    this.kelurahan = "";
-    this.kodePos = "";
-  }
-}
+]
